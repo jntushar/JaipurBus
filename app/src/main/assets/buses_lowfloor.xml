@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <bus name="AC1">
+        <item>Sanganer Town</item>
+        <item>Sanganer Stadium</item>
+        <item>Kundan Nagar</item>
+        <item>Sanganer Thana</item>
+        <item>Datta Wadi</item>
+        <item>Kalyan Nagar</item>
+        <item>Ram Mandir</item>
+        <item>Taron Ki Koot</item>
+        <item>B2 Bypass Road</item>
+        <item>Surya Nagar</item>
+        <item>City Plex</item>
+        <item>Jawahar Circle</item>
+        <item>Fortis Hospital</item>
+        <item>Durgapura</item>
+        <item>Mahaveer Nagar</item>
+        <item>Gopalpura</item>
+        <item>Gandhi Nagar Railway Station</item>
+        <item>Sayeed Ka Gatta</item>
+        <item>Tonk Phatak</item>
+        <item>Laxmi Mandir</item>
+        <item>Nehru Place</item>
+        <item>Gandhi Nagar Mod</item>
+        <item>Lal Kothi</item>
+        <item>SMS Stadium</item>
+        <item>Ram Bagh Circle</item>
+        <item>Narayan Singh Circle</item>
+        <item>SMS Hospital</item>
+        <item>Maharani College</item>
+        <item>Ajmeri Gate</item>
+        <item>Ram Niwas Garden Parking</item>
+        <item>Sanganeri Gate</item>
+        <item>Badi Chopar</item>
+        <item>Chandi Ki Taksal</item>
+        <item>Subhash Chowk</item>
+        <item>Joravar Singh Gate</item>
+        <item>Govind Nagar</item>
+        <item>Ramgarh Mod</item>
+        <item>Shahpura Bagh</item>
+        <item>Jal Mahal</item>
+        <item>AirForce Office</item>
+        <item>Mavata</item>
+        <item>Amer Fort</item>
+        <item>Amer Stadium</item>
+        <item>Morta</item>
+        <item>Narad Ka Bagh</item>
+        <item>Kunda</item>
+        <item>Check Post Amer</item>
+        <item>RICCO Kukas</item>
+        <item>Kukas</item>
+    </bus>
+
+    <bus name="AC2">
+        <item>Mahatma Gandhi Hospital</item>
+        <item>BOSCH Limited</item>
+        <item>Goner Railway Phatak</item>
+        <item>Chatrala Circle</item>
+        <item>Genpact Sitapura</item>
+        <item>Sitapura Circle</item>
+        <item>India Gate</item>
+        <item>Pratap Nagar RSRTC Bus Stand</item>
+        <item>Kumbha Marg</item>
+        <item>Pratap Nagar Sector-8</item>
+        <item>Haldi Ghati Marg</item>
+        <item>Pratap Nagar Sector-5</item>
+        <item>Pratap Nagar Sector-3</item>
+        <item>Gowshala</item>
+        <item>Shiv Nagar</item>
+        <item>Sanganer Thana</item>
+        <item>Datta Wadi</item>
+        <item>Kalyan Nagar</item>
+        <item>Ram Mandir</item>
+        <item>Taron Ki Koot</item>
+        <item>B2 Bypass Road</item>
+        <item>Surya Nagar</item>
+        <item>City Plex</item>
+        <item>Jawahar Circle</item>
+        <item>Fortis Hospital</item>
+        <item>Durgapura</item>
+        <item>Mahaveer Nagar</item>
+        <item>Gopalpura</item>
+        <item>Gandhi Nagar Railway Station</item>
+        <item>Sayeed Ka Gatta</item>
+        <item>Tonk Phatak</item>
+        <item>Laxmi Mandir</item>
+        <item>Nehru Place</item>
+        <item>Gandhi Nagar Mod</item>
+        <item>Lal Kothi</item>
+        <item>SMS Stadium</item>
+        <item>Ram Bagh Circle</item>
+        <item>Narayan Singh Circle</item>
+        <item>SMS Hospital</item>
+        <item>Maharani College</item>
+        <item>Ajmeri Gate</item>
+        <item>MI Road</item>
+        <item>Paanch Batti</item>
+        <item>GPO</item>
+        <item>Government Hostel</item>
+        <item>Sindhi Camp</item>
+        <item>Polo Victory</item>
+        <item>Jaipur Junction Railway Station</item>
+        <item>Ram Mandir ( Bani Park)</item>
+        <item>Chinkara Canteen</item>
+        <item>Panipech</item>
+        <item>Ambabari</item>
+        <item>Chomu Puliya</item>
+        <item>Triton Mall</item>
+        <item>Lata Circle</item>
+        <item>Jhotwara Pankha</item>
+        <item>Vishnu Marg</item>
+        <item>Boring Road</item>
+        <item>Jhotwara Kanta</item>
+        <item>Joshi Marg</item>
+    </bus>
+
+    <bus name="AC5">
+        <item>Agarwal Farm</item>
+        <item>Thadi Market</item>
+        <item>Vijay Path</item>
+        <item>Meera Marg</item>
+        <item>Patel Marg</item>
+        <item>Market Road</item>
+        <item>Kendriya Vidhyalaya no. 5</item>
+        <item>Aravali Marg</item>
+        <item>Akbar VT Road</item>
+        <item>Heera Path</item>
+        <item>Rajat Path</item>
+        <item>Kiran Path</item>
+        <item>Varun Path</item>
+        <item>Swarn Path</item>
+        <item>Kaveri Path</item>
+        <item>Bhrigu Path</item>
+        <item>Mansarovar Metro Station</item>
+        <item>Ganga Jamuna Petrol Pump</item>
+        <item>New Aatish Market Metro Station</item>
+        <item>Gurjar Ki Thadi</item>
+        <item>Ridhi Sidhi</item>
+        <item>Mahesh Nagar Mod</item>
+        <item>Triveni Nagar</item>
+        <item>Mahaveer Nagar</item>
+        <item>Gopalpura</item>
+        <item>Gandhi Nagar Railway Station</item>
+        <item>Sayeed Ka Gatta</item>
+        <item>Tonk Phatak</item>
+        <item>Laxmi Mandir</item>
+        <item>Nehru Place</item>
+        <item>Gandhi Nagar Mod</item>
+        <item>Lal Kothi</item>
+        <item>SMS Stadium</item>
+        <item>Ram Bagh Circle</item>
+        <item>Narayan Singh Circle</item>
+        <item>SMS Hospital</item>
+        <item>Maharani College</item>
+        <item>Ajmeri Gate</item>
+        <item>Ram Niwas Garden Parking</item>
+        <item>Sanganeri Gate</item>
+        <item>Badi Chopar</item>
+        <item>Chandi Ki Taksal</item>
+        <item>Subhash Chowk</item>
+        <item>Joravar Singh Gate</item>
+        <item>Govind Nagar</item>
+        <item>Ramgarh Mod</item>
+        <item>Shahpura Bagh</item>
+        <item>Jal Mahal</item>
+        <item>AirForce Office</item>
+        <item>Mavata</item>
+        <item>Amer Fort</item>
+    </bus>
+
+    <bus name="1">
+        <item>Todi</item>
+        <item>Harmada</item>
+        <item>Nindar Mod</item>
+        <item>Jodla</item>
+        <item>VKI Road no. 14</item>
+        <item>VKI Road no. 12</item>
+        <item>VKI Road no. 9</item>
+        <item>VKI Road no. 8</item>
+        <item>VKI Road no. 5</item>
+        <item>VKI Road no. 1</item>
+        <item>Alka Cinema</item>
+        <item>Vidhyadhar Nagar Bus Depot</item>
+        <item>Khetan Hospital</item>
+        <item>Dahar Ke Balaji</item>
+        <item>Bhawani Niketan</item>
+        <item>Triton Mall</item>
+        <item>Chomu Puliya</item>
+        <item>Ambabari</item>
+        <item>Panipech</item>
+        <item>Doodh Mandi</item>
+        <item>Pital Factory</item>
+        <item>Power House</item>
+        <item>TB Hospital</item>
+        <item>Pareek College</item>
+        <item>Chandpol</item>
+        <item>SC Road</item>
+        <item>GPO</item>
+        <item>Paanch Batti</item>
+        <item>MI Road</item>
+        <item>Ajmeri Gate</item>
+        <item>Ram Niwas Garden Parking</item>
+        <item>Sanganeri Gate</item>
+        <item>Ghat Gate</item>
+        <item>Transport Nagar</item>
+    </bus>
+
+    <bus name="1A">
+        <item>VKI Road no. 17</item>
+        <item>VKI Road no. 14</item>
+        <item>VKI Road no. 12</item>
+        <item>Nanda Canteen</item>
+        <item>32 Dukan</item>
+        <item>VKI Road no. 9</item>
+        <item>VKI Road no. 8</item>
+        <item>VKI Road no. 5</item>
+        <item>VKI Road no. 1</item>
+        <item>Alka Cinema</item>
+        <item>Vidhyadhar Nagar Bus Depot</item>
+        <item>Khetan Hospital</item>
+        <item>Dahar Ke Balaji</item>
+        <item>Bhawani Niketan</item>
+        <item>Triton Mall</item>
+        <item>Chomu Puliya</item>
+        <item>Ambabari</item>
+        <item>Panipech</item>
+        <item>Doodh Mandi</item>
+        <item>Pital Factory</item>
+        <item>Power House</item>
+        <item>TB Hospital</item>
+        <item>Pareek College</item>
+        <item>Chandpol</item>
+        <item>SC Road</item>
+        <item>GPO</item>
+        <item>Paanch Batti</item>
+        <item>MI Road</item>
+        <item>Ajmeri Gate</item>
+        <item>Ram Niwas Garden Parking</item>
+        <item>Sanganeri Gate</item>
+        <item>Ghat Gate</item>
+        <item>Transport Nagar</item>
+    </bus>
+
+    <bus name="2">
+        <item>Chandpol</item>
+        <item>SC Road</item>
+        <item>GPO</item>
+        <item>Government Hostel</item>
+        <item>Shalimar</item>
+        <item>Hathroi</item>
+        <item>Ajmer Puliya</item>
+        <item>Civil Lines Chauraha</item>
+        <item>Civil Lines Metro Station</item>
+        <item>Majdoor Nagar</item>
+        <item>ESI no. 4 Dispensary</item>
+        <item>Sodala</item>
+        <item>Shyam Nagar</item>
+        <item>Sushil Pura</item>
+        <item>Purani Chungi</item>
+        <item>Kings Road</item>
+        <item>DCM</item>
+        <item>Tagore Nagar</item>
+        <item>Heerapura Bypass</item>
+        <item>200 Feet Bypass</item>
+        <item>Power House</item>
+        <item>Dhawas Girdharipura Mod</item>
+        <item>Surana Farm</item>
+        <item>Kamla Nehru Nagar</item>
+        <item>Chaudhary Nagar</item>
+        <item>Keshopura</item>
+        <item>Bhankrota</item>
+    </bus>
+
+    <bus name="3">
+        <item>DwarikaPuri</item>
+        <item>NRI Circle</item>
+        <item>Pratap Nagar Sector-16</item>
+        <item>Bhairon Mandir</item>
+        <item>Pratap Nagar Sector-11</item>
+        <item>Pratap Nagar Sector-10</item>
+        <item>Pratap Nagar RSRTC Bus Stand</item>
+        <item>Kumbha Marg</item>
+        <item>Pratap Nagar Sector-8</item>
+        <item>Haldi Ghati Marg</item>
+        <item>Pratap Nagar Sector-5</item>
+        <item>Pratap Nagar Sector-3</item>
+        <item>Gowshala</item>
+        <item>Shiv Nagar</item>
+        <item>Sanganer Thana</item>
+        <item>Datta Wadi</item>
+        <item>Kalyan Nagar</item>
+        <item>Ram Mandir</item>
+        <item>Taron Ki Koot</item>
+        <item>B2 Bypass Road</item>
+        <item>Surya Nagar</item>
+        <item>City Plex</item>
+        <item>Jawahar Circle</item>
+        <item>Fortis Hospital</item>
+        <item>Durgapura</item>
+        <item>Mahaveer Nagar</item>
+        <item>Gopalpura</item>
+        <item>Gandhi Nagar Railway Station</item>
+        <item>Sayeed Ka Gatta</item>
+        <item>Tonk Phatak</item>
+        <item>Laxmi Mandir</item>
+        <item>Nehru Place</item>
+        <item>Gandhi Nagar Mod</item>
+        <item>Lal Kothi</item>
+        <item>SMS Stadium</item>
+        <item>Ram Bagh Circle</item>
+        <item>Narayan Singh Circle</item>
+        <item>SMS Hospital</item>
+        <item>Maharani College</item>
+        <item>Ajmeri Gate</item>
+        <item>Ram Niwas Garden Parking</item>
+        <item>Sanganeri Gate</item>
+        <item>Ghat Gate</item>
+        <item>Transport Nagar</item>
+    </bus>
+
+    <bus name="3A">
+        <item>Sanganer Town</item>
+        <item>Sanganer Stadium</item>
+        <item>Kundan Nagar</item>
+        <item>Sanganer Thana</item>
+        <item>Datta Wadi</item>
+        <item>Kalyan Nagar</item>
+        <item>Ram Mandir</item>
+        <item>Taron Ki Koot</item>
+        <item>B2 Bypass Road</item>
+        <item>Surya Nagar</item>
+        <item>City Plex</item>
+        <item>Jawahar Circle</item>
+        <item>Fortis Hospital</item>
+        <item>Durgapura</item>
+        <item>Mahaveer Nagar</item>
+        <item>Gopalpura</item>
+        <item>Gandhi Nagar Railway Station</item>
+        <item>Sayeed Ka Gatta</item>
+        <item>Tonk Phatak</item>
+        <item>Laxmi Mandir</item>
+        <item>Nehru Place</item>
+        <item>Gandhi Nagar Mod</item>
+        <item>Lal Kothi</item>
+        <item>SMS Stadium</item>
+        <item>Ram Bagh Circle</item>
+        <item>Narayan Singh Circle</item>
+        <item>SMS Hospital</item>
+        <item>Maharani College</item>
+        <item>Ajmeri Gate</item>
+        <item>Choti Chopar</item>
+    </bus>
+
+    <bus name="3B">
+        <item>Pannadhay Circle</item>
+        <item>Sheopur</item>
+        <item>Sheopur Road</item>
+        <item>Gowshala</item>
+        <item>Shiv Nagar</item>
+        <item>Sanganer Thana</item>
+        <item>Datta Wadi</item>
+        <item>Kalyan Nagar</item>
+        <item>Ram Mandir</item>
+        <item>Taron Ki Koot</item>
+        <item>B2 Bypass Road</item>
+        <item>Surya Nagar</item>
+        <item>City Plex</item>
+        <item>Jawahar Circle</item>
+        <item>Fortis Hospital</item>
+        <item>Durgapura</item>
+        <item>Mahaveer Nagar</item>
+        <item>Gopalpura</item>
+        <item>Gandhi Nagar Railway Station</item>
+        <item>Sayeed Ka Gatta</item>
+        <item>Tonk Phatak</item>
+        <item>Laxmi Mandir</item>
+        <item>Nehru Place</item>
+        <item>Gandhi Nagar Mod</item>
+        <item>Lal Kothi</item>
+        <item>SMS Stadium</item>
+        <item>Ram Bagh Circle</item>
+        <item>Narayan Singh Circle</item>
+        <item>SMS Hospital</item>
+        <item>Maharani College</item>
+        <item>Ajmeri Gate</item>
+        <item>Ram Niwas Garden Parking</item>
+        <item>Sanganeri Gate</item>
+        <item>Badi Chopar</item>
+        <item>Chandi Ki Taksal</item>
+        <item>Subhash Chowk</item>
+        <item>Joravar Singh Gate</item>
+        <item>Govind Nagar</item>
+        <item>Ramgarh Mod</item>
+        <item>Shahpura Bagh</item>
+        <item>Jal Mahal</item>
+        <item>AirForce Office</item>
+        <item>Mavata</item>
+        <item>Amer Fort</item>
+        <item>Amer Stadium</item>
+        <item>Morta</item>
+        <item>Narad Ka Bagh</item>
+        <item>Kunda</item>
+    </bus>
+
+    <bus name="3C">
+        <item>Mahatma Gandhi Hospital</item>
+        <item>BOSCH Limited</item>
+        <item>Goner Railway Phatak</item>
+        <item>Chatrala Circle</item>
+        <item>Genpact Sitapura</item>
+        <item>Poddar Circle</item>
+        <item>India Gate</item>
+        <item>Pratap Nagar RSRTC Bus Stand</item>
+        <item>Kumbha Marg</item>
+        <item>Pratap Nagar Sector-8</item>
+        <item>Haldi Ghati Marg</item>
+        <item>Pratap Nagar Sector-5</item>
+        <item>Pratap Nagar Sector-3</item>
+        <item>Gowshala</item>
+        <item>Shiv Nagar</item>
+        <item>Sanganer Thana</item>
+        <item>Datta Wadi</item>
+        <item>Kalyan Nagar</item>
+        <item>Ram Mandir</item>
+        <item>Taron Ki Koot</item>
+        <item>B2 Bypass Road</item>
+        <item>Surya Nagar</item>
+        <item>City Plex</item>
+        <item>Jawahar Circle</item>
+        <item>Fortis Hospital</item>
+        <item>Durgapura</item>
+        <item>Mahaveer Nagar</item>
+        <item>Gopalpura</item>
+        <item>Gandhi Nagar Railway Station</item>
+        <item>Sayeed Ka Gatta</item>
+        <item>Tonk Phatak</item>
+        <item>Laxmi Mandir</item>
+        <item>Nehru Place</item>
+        <item>Gandhi Nagar Mod</item>
+        <item>Lal Kothi</item>
+        <item>SMS Stadium</item>
+        <item>Ram Bagh Circle</item>
+        <item>Narayan Singh Circle</item>
+        <item>SMS Hospital</item>
+        <item>Maharani College</item>
+        <item>Ajmeri Gate</item>
+    </bus>
+
+    <bus name="6A">
+        <item>Airport</item>
+        <item>Jawahar Circle</item>
+        <item>Malviya Nagar Sector-10</item>
+        <item>Malviya Nagar Sector-11</item>
+        <item>Malviya Nagar Sector-15</item>
+        <item>Nandpuri</item>
+        <item>Malviya Nagar Sector-3</item>
+        <item>Malviya Nagar Sector-2</item>
+        <item>Satkar Market</item>
+        <item>Kelgiri Hospital</item>
+        <item>Hari Marg</item>
+        <item>Pradhan Marg</item>
+        <item>Gaurav Tower Puliya</item>
+        <item>Saras Dairy</item>
+        <item>MNIT College</item>
+        <item>Dainik Bhaskar</item>
+        <item>Bajaj Nagar</item>
+        <item>Gandhi Nagar Railway Station</item>
+        <item>Tonk Phatak</item>
+        <item>Laxmi Mandir</item>
+        <item>Nehru Place</item>
+        <item>Gandhi Nagar Mod</item>
+        <item>Lal Kothi</item>
+        <item>SMS Stadium</item>
+        <item>Ram Bagh Circle</item>
+        <item>Narayan Singh Circle</item>
+        <item>SMS Hospital</item>
+        <item>Maharani College</item>
+        <item>Ajmeri Gate</item>
+        <item>MI Road</item>
+        <item>Paanch Batti</item>
+        <item>GPO</item>
+        <item>Government Hostel</item>
+        <item>Polo Victory</item>
+        <item>Khasa Kothi</item>
+        <item>Sindhi Camp</item>
+        <item>Collectory Circle</item>
+        <item>Chinkara Canteen</item>
+        <item>Panipech</item>
+        <item>Ambabari</item>
+        <item>Chomu Puliya</item>
+        <item>Triton Mall</item>
+        <item>Lata Circle</item>
+        <item>Jhotwara Pankha</item>
+        <item>Panchayat Samiti</item>
+        <item>Medical Centre</item>
+        <item>Vishnu Marg</item>
+        <item>Boring Road</item>
+        <item>Jhotwara Kanta</item>
+        <item>Ganesh Mandir Jhotwara</item>
+        <item>Lal Mandir</item>
+        <item>Kirni Phatak</item>
+    </bus>
+
+    <bus name="7">
+        <item>Panchayala Puliya</item>
+        <item>Heerapura</item>
+        <item>New Transport Nagar</item>
+        <item>Vardhaman Nagar</item>
+        <item>Kisaan Dharam Kanta</item>
+        <item>Mansarovar Metro Station</item>
+        <item>Ganga Jamuna Petrol Pump</item>
+        <item>New Aatish Market Metro Station</item>
+        <item>Gurjar Ki Thadi</item>
+        <item>Ridhi Sidhi</item>
+        <item>Mahesh Nagar Mod</item>
+        <item>Triveni Nagar</item>
+        <item>Mahaveer Nagar</item>
+        <item>Gopalpura</item>
+        <item>Gandhi Nagar Railway Station</item>
+        <item>Sayeed Ka Gatta</item>
+        <item>Tonk Phatak</item>
+        <item>Laxmi Mandir</item>
+        <item>Nehru Place</item>
+        <item>Gandhi Nagar Mod</item>
+        <item>Lal Kothi</item>
+        <item>SMS Stadium</item>
+        <item>Ram Bagh Circle</item>
+        <item>Narayan Singh Circle</item>
+        <item>Trimurti Circle</item>
+        <item>Moti Dungari Circle</item>
+        <item>Raja Park</item>
+        <item>Baraf Khana</item>
+        <item>Pink Square</item>
+        <item>Mental Hospital</item>
+        <item>Govind Marg</item>
+        <item>Transport Nagar</item>
+    </bus>
+
+    <bus name="8A">
+        <item>Jagatpura Phatak</item>
+        <item>Model Town</item>
+        <item>Dak Colony</item>
+        <item>Balaji Mod</item>
+        <item>Haldia Garden</item>
+        <item>Apex Circle</item>
+        <item>Kendriya Vidhyalaya no. 3</item>
+        <item>Jhalana Doongri</item>
+        <item>Baiji Ki Kothi</item>
+        <item>RTO Office</item>
+        <item>Gandhi Circle</item>
+        <item>Gandhi Nagar Mod</item>
+        <item>Lal Kothi</item>
+        <item>SMS Stadium</item>
+        <item>Ram Bagh Circle</item>
+        <item>Narayan Singh Circle</item>
+        <item>SMS Hospital</item>
+        <item>Maharani College</item>
+        <item>Ajmeri Gate</item>
+        <item>MI Road</item>
+        <item>Paanch Batti</item>
+        <item>GPO</item>
+        <item>Government Hostel</item>
+        <item>Sindhi Camp</item>
+        <item>Polo Victory</item>
+        <item>Jaipur Junction Railway Station</item>
+        <item>Ram Mandir ( Bani Park)</item>
+        <item>Chinkara Canteen</item>
+        <item>Panipech</item>
+        <item>Ambabari</item>
+        <item>Chomu Puliya</item>
+    </bus>
+
+    <bus name="8B">
+        <item>Jagatpura Phatak</item>
+        <item>Jagatpura Railway Station</item>
+        <item>NWR Headquarters</item>
+        <item>Gold Sukh</item>
+        <item>Jawahar Circle</item>
+        <item>City Plex</item>
+        <item>Surya Nagar</item>
+        <item>B2 Bypass Road</item>
+        <item>Taron Ki Koot</item>
+        <item>Ram Mandir</item>
+        <item>Kalyan Nagar</item>
+        <item>Datta Wadi</item>
+        <item>Sanganer Thana</item>
+        <item>Kundan Nagar</item>
+        <item>Sanganer Stadium</item>
+        <item>Sanganer Petrol Pump</item>
+        <item>RICCO Chauraha Sanganer</item>
+        <item>Suresh Nagar Mod</item>
+        <item>Agarwal Farm</item>
+        <item>Thadi Market</item>
+        <item>Vijay Path</item>
+        <item>Meera Marg</item>
+        <item>Patel Marg</item>
+        <item>Market Road</item>
+        <item>Kendriya Vidhyalaya no. 5</item>
+        <item>Aravali Marg</item>
+        <item>Akbar VT Road</item>
+        <item>Heera Path</item>
+        <item>Rajat Path</item>
+        <item>Kiran Path</item>
+        <item>Varun Path</item>
+        <item>Swarn Path</item>
+        <item>Kaveri Path</item>
+        <item>Bhrigu Path</item>
+        <item>Ganga Jamuna Petrol Pump</item>
+        <item>Nirman Nagar</item>
+        <item>Kings Road</item>
+        <item>Purani Chungi</item>
+        <item>Sushil Pura</item>
+        <item>Shyam Nagar</item>
+        <item>Sodala</item>
+        <item>ESI no. 4 Dispensary</item>
+        <item>Majdoor Nagar</item>
+        <item>Civil Lines Metro Station</item>
+        <item>Civil Lines Chauraha</item>
+        <item>Ajmer Puliya</item>
+        <item>Jaipur Club</item>
+        <item>Central Railway Hospital</item>
+        <item>Government Hostel</item>
+        <item>GPO</item>
+        <item>Government Hostel</item>
+        <item>Sindhi Camp</item>
+        <item>Mayank Cinema</item>
+        <item>Chandpol</item>
+        <item>Pareek College</item>
+        <item>TB Hospital</item>
+        <item>Power House</item>
+        <item>Pital Factory</item>
+        <item>Shashtri Nagar Circle</item>
+        <item>Subhash Colony</item>
+        <item>Kawatiya Circle</item>
+        <item>Hari Nagar</item>
+        <item>Ram Nagar</item>
+        <item>Vidhyadhar Nagar</item>
+        <item>Mandir Mod</item>
+        <item>Central Spine</item>
+        <item>Cross Road Mall</item>
+        <item>Vidhyadhar Nagar Thana</item>
+        <item>Parshuram Circle</item>
+        <item>Alka Cinema</item>
+    </bus>
+
+    <bus name="9">
+        <item>Agarwal Farm</item>
+        <item>Thadi Market</item>
+        <item>Vijay Path</item>
+        <item>Meera Marg</item>
+        <item>Patel Marg</item>
+        <item>Market Road</item>
+        <item>Kendriya Vidhyalaya no. 5</item>
+        <item>Aravali Marg</item>
+        <item>Akbar VT Road</item>
+        <item>Heera Path</item>
+        <item>Rajat Path</item>
+        <item>Kiran Path</item>
+        <item>Varun Path</item>
+        <item>Swarn Path</item>
+        <item>Kaveri Path</item>
+        <item>Bhrigu Path</item>
+        <item>Ganga Jamuna Petrol Pump</item>
+        <item>New Aatish Market Metro Station</item>
+        <item>Gurjar Ki Thadi</item>
+        <item>Ridhi Sidhi</item>
+        <item>Mahesh Nagar Mod</item>
+        <item>Triveni Nagar</item>
+        <item>Mahaveer Nagar</item>
+        <item>Gopalpura</item>
+        <item>Gandhi Nagar Railway Station</item>
+        <item>Sayeed Ka Gatta</item>
+        <item>Tonk Phatak</item>
+        <item>Laxmi Mandir</item>
+        <item>Nehru Place</item>
+        <item>Gandhi Nagar Mod</item>
+        <item>Lal Kothi</item>
+        <item>SMS Stadium</item>
+        <item>Ram Bagh Circle</item>
+        <item>Narayan Singh Circle</item>
+        <item>SMS Hospital</item>
+        <item>Maharani College</item>
+        <item>Ajmeri Gate</item>
+        <item>MI Road</item>
+        <item>Paanch Batti</item>
+        <item>GPO</item>
+        <item>Government Hostel</item>
+        <item>Polo Victory</item>
+        <item>Khasa Kothi</item>
+        <item>Sindhi Camp</item>
+        <item>Collectory Circle</item>
+        <item>Chinkara Canteen</item>
+        <item>Panipech</item>
+        <item>Ambabari</item>
+        <item>Chomu Puliya</item>
+        <item>Triton Mall</item>
+        <item>Lata Circle</item>
+        <item>Jhotwara Pankha</item>
+        <item>Vishnu Marg</item>
+        <item>Boring Road</item>
+        <item>Jhotwara Kanta</item>
+        <item>Joshi Marg</item>
+        <item>Rawan Gate</item>
+        <item>Govindpura</item>
+    </bus>
+
+    <bus name="9A">
+        <item>Agarwal Farm</item>
+        <item>Thadi Market</item>
+        <item>Vijay Path</item>
+        <item>Shipra Path</item>
+        <item>Maharani Farm</item>
+        <item>Durgapura</item>
+        <item>Mahaveer Nagar</item>
+        <item>Gopalpura</item>
+        <item>Gandhi Nagar Railway Station</item>
+        <item>Sayeed Ka Gatta</item>
+        <item>Tonk Phatak</item>
+        <item>Laxmi Mandir</item>
+        <item>Nehru Place</item>
+        <item>Gandhi Nagar Mod</item>
+        <item>Lal Kothi</item>
+        <item>SMS Stadium</item>
+        <item>Ram Bagh Circle</item>
+        <item>Narayan Singh Circle</item>
+        <item>SMS Hospital</item>
+        <item>Maharani College</item>
+        <item>Ajmeri Gate</item>
+        <item>MI Road</item>
+        <item>Paanch Batti</item>
+        <item>GPO</item>
+        <item>Government Hostel</item>
+        <item>Sindhi Camp</item>
+        <item>Mayank Cinema</item>
+        <item>Chandpol</item>
+        <item>Pareek College</item>
+        <item>TB Hospital</item>
+        <item>Power House</item>
+        <item>Pital Factory</item>
+        <item>Shashtri Nagar Circle</item>
+        <item>Subhash Colony</item>
+        <item>Kawatiya Circle</item>
+        <item>Hari Nagar</item>
+        <item>Ram Nagar</item>
+        <item>Vidhyadhar Nagar</item>
+        <item>Mandir Mod</item>
+        <item>Central Spine</item>
+        <item>Cross Road Mall</item>
+        <item>Vidhyadhar Nagar Thana</item>
+        <item>Parshuram Circle</item>
+        <item>Alka Cinema</item>
+        <item>VKI Road no. 1</item>
+        <item>Murlipura Thana</item>
+        <item>Kedia Palace</item>
+        <item>Dadi Ka Phatak</item>
+    </bus>
+
+    <bus name="10B">
+        <item>Niwaru</item>
+        <item>34 no. Bus Stand</item>
+        <item>Dayal Nursing Home</item>
+        <item>Vaidh Ji Ka Chauraha</item>
+        <item>Ashok Nagar</item>
+        <item>Niwaru Marg</item>
+        <item>Netaji Ki Chakki</item>
+        <item>Laxmi Nagar</item>
+        <item>Ramneshpuri</item>
+        <item>Shalimar Factory</item>
+        <item>Shivaji Nagar Chauraha</item>
+        <item>Jhotwara Kanta</item>
+        <item>Boring Road</item>
+        <item>Vishnu Marg</item>
+        <item>Medical Centre</item>
+        <item>Panchayat Samiti</item>
+        <item>Jhotwara Pankha</item>
+        <item>Lata Circle</item>
+        <item>Triton Mall</item>
+        <item>Chomu Puliya</item>
+        <item>Ambabari</item>
+        <item>Panipech</item>
+        <item>Doodh Mandi</item>
+        <item>Pital Factory</item>
+        <item>Power House</item>
+        <item>TB Hospital</item>
+        <item>Pareek College</item>
+        <item>Chandpol</item>
+        <item>Mayank Cinema</item>
+        <item>Sindhi Camp</item>
+        <item>Polo Victory</item>
+        <item>Central Railway Hospital</item>
+        <item>Jaipur Club</item>
+        <item>Hasanpura</item>
+        <item>ESI no. 4 Dispensary</item>
+        <item>Hatwada</item>
+        <item>ESI Hospital</item>
+        <item>Sodala</item>
+        <item>Ram Nagar</item>
+        <item>Nandpuri ( 22 Godam )</item>
+        <item>22 Godam</item>
+        <item>Sahkari Bhawan</item>
+        <item>High Court Circle</item>
+        <item>Ram Bagh Circle</item>
+        <item>JDA Circle</item>
+        <item>Lal Bahadur Shastri College Mod</item>
+        <item>Panchwati Circle</item>
+        <item>Puliya no. 1</item>
+        <item>Jawahar Nagar</item>
+        <item>Mama Ki Hotel</item>
+        <item>Sri Sathya Sai College</item>
+        <item>Transport Nagar</item>
+        <item>Galta Gate</item>
+    </bus>
+
+    <bus name="11">
+        <item>Goner</item>
+        <item>Vidhani</item>
+        <item>Jagatpura Mod</item>
+        <item>Mahatma Gandhi Hospital</item>
+        <item>BOSCH Limited</item>
+        <item>Goner Railway Phatak</item>
+        <item>Goner Mod</item>
+        <item>12 Mill</item>
+        <item>Crowne Plaza</item>
+        <item>India Gate</item>
+        <item>Pratap Nagar RSRTC Bus Stand</item>
+        <item>Kumbha Marg</item>
+        <item>Pratap Nagar Sector-8</item>
+        <item>Haldi Ghati Marg</item>
+        <item>Pratap Nagar Sector-5</item>
+        <item>Pratap Nagar Sector-3</item>
+        <item>Gowshala</item>
+        <item>Shiv Nagar</item>
+        <item>Sanganer Thana</item>
+        <item>Datta Wadi</item>
+        <item>Kalyan Nagar</item>
+        <item>Ram Mandir</item>
+        <item>Taron Ki Koot</item>
+        <item>B2 Bypass Road</item>
+        <item>Surya Nagar</item>
+        <item>City Plex</item>
+        <item>Jawahar Circle</item>
+        <item>Fortis Hospital</item>
+        <item>Durgapura</item>
+        <item>Mahaveer Nagar</item>
+        <item>Gopalpura</item>
+        <item>Gandhi Nagar Railway Station</item>
+        <item>Sayeed Ka Gatta</item>
+        <item>Tonk Phatak</item>
+        <item>Laxmi Mandir</item>
+        <item>Nehru Place</item>
+        <item>Gandhi Nagar Mod</item>
+        <item>Lal Kothi</item>
+        <item>SMS Stadium</item>
+        <item>Ram Bagh Circle</item>
+        <item>Narayan Singh Circle</item>
+        <item>SMS Hospital</item>
+        <item>Maharani College</item>
+        <item>Ajmeri Gate</item>
+        <item>Choti Chopar</item>
+        <item>Chandpol</item>
+        <item>Mayank Cinema</item>
+        <item>Sindhi Camp</item>
+        <item>Polo Victory</item>
+        <item>Jaipur Junction Railway Station</item>
+        <item>Central Railway Hospital</item>
+        <item>Jaipur Club</item>
+        <item>Hasanpura</item>
+        <item>Hatwada</item>
+        <item>Kendriya Vidhyalaya no. 4</item>
+        <item>Khatipura Mod</item>
+        <item>Panchyawala</item>
+        <item>Meenawala</item>
+        <item>Siwad</item>
+    </bus>
+
+    <bus name="12">
+        <item>Ajmeri Gate</item>
+        <item>Ram Niwas Garden Parking</item>
+        <item>Sanganeri Gate</item>
+        <item>Ghat Gate</item>
+        <item>Transport Nagar</item>
+        <item>Sisodiya Rani Garden</item>
+        <item>Chulgiri</item>
+        <item>Khaniya</item>
+        <item>Madina Nagar</item>
+        <item>Karim Nagar</item>
+        <item>Rahim Nagar</item>
+        <item>Kho Nagoriyan</item>
+        <item>New RTO Office</item>
+        <item>Motuka Phatak</item>
+        <item>Jagatpura Phatak</item>
+        <item>Jagatpura Railway Station</item>
+        <item>Model Town</item>
+        <item>Dak Colony</item>
+        <item>Balaji Mod</item>
+        <item>Haldia Garden</item>
+        <item>Apex Circle</item>
+        <item>Kendriya Vidhyalaya no. 3</item>
+        <item>Jhalana Doongri</item>
+        <item>Baiji Ki Kothi</item>
+        <item>RTO Office</item>
+        <item>Gandhi Circle</item>
+        <item>Gandhi Nagar Mod</item>
+        <item>Lal Kothi</item>
+        <item>SMS Stadium</item>
+        <item>Ram Bagh Circle</item>
+        <item>Narayan Singh Circle</item>
+        <item>SMS Hospital</item>
+        <item>Maharani College</item>
+        <item>Ajmeri Gate</item>
+    </bus>
+
+    <bus name="14">
+        <item>Chomu Puliya</item>
+        <item>Triton Mall</item>
+        <item>Lata Circle</item>
+        <item>Chand Bihari Nagar</item>
+        <item>Jasvant Nagar</item>
+        <item>Khatipura</item>
+        <item>Khatipura Mod</item>
+        <item>Parivahan Nagar Khatipura</item>
+        <item>Khatipura Road</item>
+        <item>Queens Road</item>
+        <item>Gandhi Path</item>
+        <item>Purani Chungi</item>
+        <item>Sushil Pura</item>
+        <item>Shyam Nagar</item>
+        <item>Sodala</item>
+        <item>Ram Nagar</item>
+        <item>Nandpuri ( 22 Godam )</item>
+        <item>22 Godam</item>
+        <item>Sahkari Bhawan</item>
+        <item>High Court Circle</item>
+        <item>Ram Bagh Circle</item>
+        <item>Narayan Singh Circle</item>
+        <item>SMS Hospital</item>
+        <item>Maharani College</item>
+        <item>Ajmeri Gate</item>
+        <item>Ram Niwas Garden Parking</item>
+        <item>Sanganeri Gate</item>
+        <item>Ghat Gate</item>
+        <item>Transport Nagar</item>
+        <item>Khaniya</item>
+        <item>Prem Nagar Puliya</item>
+        <item>Balti Factory</item>
+        <item>Paldimina</item>
+        <item>Bawadi</item>
+        <item>Purani Chungi Agra Road</item>
+        <item>Hanuman Ji Mandir Agra Road</item>
+        <item>Babrana</item>
+        <item>Kanota</item>
+        <item>Dayaram Pura</item>
+        <item>Vinoda Mod</item>
+        <item>Bassi Mod</item>
+        <item>Bassi</item>
+    </bus>
+
+    <bus name="15">
+        <item>Chomu</item>
+        <item>Birla Hospital</item>
+        <item>Jaitpura</item>
+        <item>Rampura</item>
+        <item>Motuka Bas</item>
+        <item>Rajawas</item>
+        <item>Todi</item>
+        <item>Harmada</item>
+        <item>Nindar Mod</item>
+        <item>Jodla</item>
+        <item>VKI Road no. 14</item>
+        <item>VKI Road no. 12</item>
+        <item>VKI Road no. 9</item>
+        <item>VKI Road no. 8</item>
+        <item>VKI Road no. 5</item>
+        <item>VKI Road no. 1</item>
+        <item>Alka Cinema</item>
+        <item>Vidhyadhar Nagar Bus Depot</item>
+        <item>Khetan Hospital</item>
+        <item>Dahar Ke Balaji</item>
+        <item>Bhawani Niketan</item>
+        <item>Triton Mall</item>
+        <item>Chomu Puliya</item>
+        <item>Ambabari</item>
+        <item>Panipech</item>
+        <item>Doodh Mandi</item>
+        <item>Pital Factory</item>
+        <item>Power House</item>
+        <item>TB Hospital</item>
+        <item>Pareek College</item>
+        <item>Chandpol</item>
+    </bus>
+
+    <bus name="16">
+        <item>Chaksu</item>
+        <item>Sheetla</item>
+        <item>Yarlipura</item>
+        <item>Shivdaspura</item>
+        <item>Nagaliya</item>
+        <item>Beelwa</item>
+        <item>Goner Mod</item>
+        <item>12 Mill</item>
+        <item>Crowne Plaza</item>
+        <item>India Gate</item>
+        <item>Pratap Nagar RSRTC Bus Stand</item>
+        <item>Kumbha Marg</item>
+        <item>Pratap Nagar Sector-8</item>
+        <item>Haldi Ghati Marg</item>
+        <item>Pratap Nagar Sector-5</item>
+        <item>Pratap Nagar Sector-3</item>
+        <item>Gowshala</item>
+        <item>Shiv Nagar</item>
+        <item>Sanganer Thana</item>
+        <item>Datta Wadi</item>
+        <item>Kalyan Nagar</item>
+        <item>Ram Mandir</item>
+        <item>Taron Ki Koot</item>
+        <item>B2 Bypass Road</item>
+        <item>Surya Nagar</item>
+        <item>City Plex</item>
+        <item>Jawahar Circle</item>
+        <item>Fortis Hospital</item>
+        <item>Durgapura</item>
+        <item>Mahaveer Nagar</item>
+        <item>Gopalpura</item>
+        <item>Gandhi Nagar Railway Station</item>
+        <item>Sayeed Ka Gatta</item>
+        <item>Tonk Phatak</item>
+        <item>Laxmi Mandir</item>
+        <item>Nehru Place</item>
+        <item>Gandhi Nagar Mod</item>
+        <item>Lal Kothi</item>
+        <item>SMS Stadium</item>
+        <item>Ram Bagh Circle</item>
+        <item>Narayan Singh Circle</item>
+        <item>SMS Hospital</item>
+        <item>Maharani College</item>
+        <item>Ajmeri Gate</item>
+    </bus>
+
+    <bus name="18">
+        <item>Chomu Puliya</item>
+        <item>Triton Mall</item>
+        <item>Lata Circle</item>
+        <item>Chand Bihari Nagar</item>
+        <item>Jasvant Nagar</item>
+        <item>Khatipura</item>
+        <item>Khatipura Mod</item>
+        <item>Vaishali Circle</item>
+        <item>Amrapali Circle</item>
+        <item>Govind Nagar</item>
+        <item>Gandhi Path</item>
+        <item>Purani Chungi</item>
+        <item>Kings Road</item>
+        <item>DCM</item>
+        <item>Tagore Nagar</item>
+        <item>Heerapura Bypass</item>
+        <item>200 Feet Bypass</item>
+        <item>Power House</item>
+        <item>Dhawas Girdharipura Mod</item>
+        <item>Surana Farm</item>
+        <item>Kamla Nehru Nagar</item>
+        <item>Chaudhary Nagar</item>
+        <item>Keshopura</item>
+        <item>Bhankrota</item>
+        <item>Mahapura</item>
+        <item>Jhai</item>
+        <item>Mahendra Sez</item>
+        <item>Kalwada</item>
+    </bus>
+
+    <bus name="26">
+        <item>Bagru</item>
+        <item>Dhayami Balaji</item>
+        <item>Dhayami Kala Mod</item>
+        <item>Debliya</item>
+        <item>Thikaria Mod</item>
+        <item>Bade Ke Balaji</item>
+        <item>Ramchandra Pura</item>
+        <item>Mahapura</item>
+        <item>Bhankrota</item>
+        <item>Keshopura</item>
+        <item>Chaudhary Nagar</item>
+        <item>Kamla Nehru Nagar</item>
+        <item>Dhawas Girdharipura Mod</item>
+        <item>Power House</item>
+        <item>Heerapura Bypass</item>
+        <item>Tagore Nagar</item>
+        <item>DCM</item>
+        <item>Kings Road</item>
+        <item>Prince Road</item>
+        <item>Purani Chungi</item>
+        <item>Sushil Pura</item>
+        <item>Shyam Nagar</item>
+        <item>Sodala</item>
+        <item>ESI no. 4 Dispensary</item>
+        <item>Majdoor Nagar</item>
+        <item>Civil Lines Metro Station</item>
+        <item>Civil Lines Chauraha</item>
+        <item>Ajmer Puliya</item>
+        <item>Hathroi</item>
+        <item>Shalimar</item>
+        <item>Government Hostel</item>
+        <item>GPO</item>
+        <item>ML Quarters</item>
+        <item>Chandpol</item>
+    </bus>
+
+    <bus name="27">
+        <item>Mohanpura</item>
+        <item>Vatika</item>
+        <item>Bhatta Wala</item>
+        <item>Kalbada</item>
+        <item>Asha Wala</item>
+        <item>12 Mill</item>
+        <item>Crowne Plaza</item>
+        <item>India Gate</item>
+        <item>Pratap Nagar RSRTC Bus Stand</item>
+        <item>Kumbha Marg</item>
+        <item>Pratap Nagar Sector-8</item>
+        <item>Haldi Ghati Marg</item>
+        <item>Pratap Nagar Sector-5</item>
+        <item>Pratap Nagar Sector-3</item>
+        <item>Gowshala</item>
+        <item>Shiv Nagar</item>
+        <item>Sanganer Thana</item>
+        <item>Datta Wadi</item>
+        <item>Kalyan Nagar</item>
+        <item>Ram Mandir</item>
+        <item>Taron Ki Koot</item>
+        <item>B2 Bypass Road</item>
+        <item>Surya Nagar</item>
+        <item>City Plex</item>
+        <item>Jawahar Circle</item>
+        <item>Fortis Hospital</item>
+        <item>Durgapura</item>
+        <item>Mahaveer Nagar</item>
+        <item>Gopalpura</item>
+        <item>Gandhi Nagar Railway Station</item>
+        <item>Sayeed Ka Gatta</item>
+        <item>Tonk Phatak</item>
+        <item>Laxmi Mandir</item>
+        <item>Nehru Place</item>
+        <item>Gandhi Nagar Mod</item>
+        <item>Lal Kothi</item>
+        <item>SMS Stadium</item>
+        <item>Ram Bagh Circle</item>
+        <item>Narayan Singh Circle</item>
+        <item>SMS Hospital</item>
+        <item>Maharani College</item>
+        <item>Ajmeri Gate</item>
+        <item>Ram Niwas Garden Parking</item>
+        <item>Sanganeri Gate</item>
+        <item>Ghat Gate</item>
+        <item>Transport Nagar</item>
+        <item>Khaniya</item>
+        <item>Muchh Ki Pipli</item>
+        <item>Luniyawas</item>
+        <item>13 No. Mini Bus</item>
+        <item>Khatipura Phatak</item>
+        <item>Dantli</item>
+        <item>Siroli</item>
+        <item>Goner</item>
+    </bus>
+
+</resources>
